@@ -39,7 +39,7 @@ PROJECTS = ("""
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
-st.title("hello there!")
+# st.title("hello there!")
 
 
 # --- LOAD CSS, PDF & PROFIL PIC ---
